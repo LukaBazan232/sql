@@ -1,4 +1,4 @@
-//ejercicio 1 copiar y pegar 
+--ejercicio 1 copiar y pegar 
 CREATE TABLE user (
  id INTEGER PRIMARY KEY AUTOINCREMENT,
  username TEXT UNIQUE NOT NULL,
